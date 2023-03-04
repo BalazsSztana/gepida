@@ -7,3 +7,22 @@
 * Github: https://github.com/BalazsSztana/
 * Licenc: GNU GPL
 */
+
+
+#about {
+    text-align: center;
+    border: solid;
+    background-color: aqua;
+}
+#quote {
+    text-align: center;
+    font-size: 35px;
+    background-image: linear-gradient(blue, red);
+    color: white;
+    border: 2px dotted;
+    margin-top: 3px;
+}
+
+table {
+    background-color: lawngreen;
+}
